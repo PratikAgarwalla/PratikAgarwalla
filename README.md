@@ -66,7 +66,6 @@
 
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikAgarwalla&theme=tokyonight&hide_border=true" width="550" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikAgarwalla&layout=compact&theme=tokyonight&hide_border=true" width="285" alt="Top Languages" />
 </div>
 
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
