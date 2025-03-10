@@ -1,12 +1,12 @@
 ![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Pratik+Agarwalla;Full-Stack+Developer;Machine+Learning+%26+Data+Science;Always+Learning+New+Things&height=30&color=gold">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Pratik+Agarwalla;Full-Stack+Developer;Machine+Learning;Always+Learning+New+Things&height=30&color=gold">
 </div>
 
 ## 💫 About Me <img src="https://komarev.com/ghpvc/?username=PratikAgarwalla&color=blueviolet&style=for-the-badge" alt="Profile Views" height="30" align="right" />
 
-🎓 Final Year Computer Application Undergraduate at VIT Vellore passionate about AI-driven insights and scalable Web Applications. With a strong analytical mindset, I create solutions that bridge technology and impact.
+🎓 Final Year Computer Application Undergraduate at VIT Vellore passionate about AI-driven solutions and scalable Web Applications. With a strong analytical mindset, I create solutions that bridge technology and impact.
 
 - 🚀 *Full-Stack Developer* with expertise in modern Web frameworks
 - 🔍 Focused on developing innovative solutions using cutting-edge technologies
@@ -18,6 +18,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikagarwalla2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-agarwalla2003/)
+
 
 ## 🛠 Tech Stack
 
