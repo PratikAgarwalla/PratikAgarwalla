@@ -14,7 +14,6 @@
 - 👯 Open to exciting opportunities and collaborations in tech
 
 ## 🌐 Connect With Me
-<img alt="Coding" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="85" align="right"/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikagarwalla2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-agarwalla2003/)
